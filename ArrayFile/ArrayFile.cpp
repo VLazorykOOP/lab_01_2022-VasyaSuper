@@ -113,7 +113,6 @@ void Task3(int n, int m, double A[100][10]) {
     max = p[0];
     //
     for (int i = 0; i < m; i++) {
-        max = p[i];
         if (max < p[i]) max = p[i];
     }
     cout << "max = " << max;

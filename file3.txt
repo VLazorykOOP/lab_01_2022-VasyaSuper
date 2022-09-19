@@ -1,0 +1,18 @@
+1) Element arrays:10
+2) Element arrays:-5
+3) Element arrays:9
+4) Element arrays:55
+5) Element arrays:1
+6) Element arrays:59
+7) Element arrays:95
+8) Element arrays:78
+9) Element arrays:-5
+10) Element arrays:-63
+11) Element arrays:-6
+12) Element arrays:-1
+13) Element arrays:8
+14) Element arrays:999
+15) Element arrays:-5
+16) Element arrays:25
+
+Максимально від'ємне число: -63
